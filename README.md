@@ -37,13 +37,13 @@ Developed a multimodal AI pipeline for generating metadata and descriptions of h
 
 ### Multilingual Bias Detection in Wikipedia
 
-**IBM Watsonx Challenge · 2025**
+**IBM Watsonx Challenge**
 
 Applied LLM-based zero-shot classification to detect bias across 5,000 Wikipedia articles in five languages.
 
 ### Financial Risk Prediction
 
-**Course Project · 2024**
+**Course Project**
 
 Explored machine learning and BERT-based approaches for financial risk prediction using a dataset of over 23,000 data points.
 
@@ -51,7 +51,7 @@ Explored machine learning and BERT-based approaches for financial risk predictio
 
 **NLP & Machine Learning Project**
 
-Developed an NLP pipeline for social media author identification, including data preprocessing, feature engineering, and machine learning classification.
+Developed an NLP and machine learning pipeline for author identification using 444,000+ tweets, achieving 93.5% accuracy through text preprocessing, feature engineering, and model optimization.
 
 ### Ontology & Knowledge Graph for Music Data
 
