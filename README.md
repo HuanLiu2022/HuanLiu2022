@@ -1,5 +1,6 @@
 <!--
 **HuanLiu2022/HuanLiu2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 # Hi, I'm Huan Liu 👋
 
@@ -62,4 +63,3 @@ Built an RDF knowledge graph and custom ontology for music data using OWL, SPARQ
 
 **University of Zurich**
 M.Sc. Computational Linguistics and Language Technology
-
