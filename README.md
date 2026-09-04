@@ -63,7 +63,3 @@ Built an RDF knowledge graph and custom ontology for music data using OWL, SPARQ
 **University of Zurich**
 M.Sc. Computational Linguistics and Language Technology
 
-## Contact
-
-[LinkedIn] https://www.linkedin.com/in/huan-liu-747144262/
-
