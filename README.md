@@ -58,8 +58,3 @@ Developed an NLP and machine learning pipeline for author identification using 4
 **Semantic Web & Linked Data**
 
 Built an RDF knowledge graph and custom ontology for music data using OWL, SPARQL, DBpedia, and GraphDB.
-
-## Education
-
-**University of Zurich**
-M.Sc. Computational Linguistics and Language Technology
