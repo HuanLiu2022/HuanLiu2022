@@ -4,11 +4,11 @@
 
 # Hi, I'm Huan Liu 👋
 
-I'm a Master's student in Computer Linguistics at the University of Zurich, with a focus on AI, machine learning, computer vision, and multimodal AI.
+I'm a Master's student in Computational Linguistics and Language Technology at the University of Zurich, with a focus on AI, machine learning, computer vision, and multimodal AI.
 
 ## About Me
 
-I'm interested in applying AI and machine learning to language and multimodal data. My experience includes deep learning, NLP, computer vision, large language models, retrieval-augmented generation, and knowledge graphs.
+I'm interested in applying AI and machine learning to language and multimodal data. My experience includes machine learning, deep learning, NLP, computer vision, large language models, retrieval-augmented generation, and knowledge graphs.
 
 ## Technical Skills
 
@@ -16,7 +16,7 @@ I'm interested in applying AI and machine learning to language and multimodal da
 Python · SQL · Data Processing
 
 **Machine Learning & Deep Learning**  
-PyTorch · Hugging Face · Transformers · LoRA
+PyTorch · Hugging Face Transformers · LoRA
 
 **AI & NLP**  
 NLP · LLMs · RAG · Multimodal AI
