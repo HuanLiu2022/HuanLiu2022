@@ -13,16 +13,22 @@ I'm interested in applying AI and machine learning to language and multimodal da
 ## Technical Skills
 
 **Programming & Data**  
-Python · SQL · Data Processing
+Python · SQL · R · Pandas · NumPy · Data Processing
 
 **Machine Learning & Deep Learning**  
-PyTorch · Hugging Face Transformers · LoRA
+PyTorch · scikit-learn · Hugging Face Transformers · LoRA · Model Training & Evaluation
 
 **AI & NLP**  
-NLP · LLMs · RAG · Multimodal AI
+NLP · LLMs · Generative AI · RAG · Information Retrieval · Embeddings · VectorDB · Multimodal AI
 
 **Computer Vision**  
 Vision-Language Models · Image Understanding
+
+**AI Engineering & APIs**  
+FastAPI · REST APIs · OpenAI API · Pydantic · JSON Schema · pytest · Ollama · OpenAI Codex
+
+**Development & Tools**  
+Git · GitHub · Linux
 
 **Knowledge Representation**  
 Knowledge Graphs · Ontologies · RDF · SPARQL
