@@ -18,6 +18,9 @@ Python · SQL · R · Pandas · NumPy · Data Processing
 **Machine Learning & Deep Learning**  
 PyTorch · scikit-learn · Hugging Face Transformers · LoRA · Model Training & Evaluation
 
+**Models & Architectures**  
+BERT · BART · LLaMA · GPT-4o · BLIP2-Flan-T5 · CLIP · XGBoost · Random Forest · Decision Trees · Linear Models
+
 **AI & NLP**  
 NLP · LLMs · Generative AI · RAG · Information Retrieval · Embeddings · VectorDB · Multimodal AI
 
